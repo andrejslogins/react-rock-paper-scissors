@@ -69,9 +69,9 @@
     "babel-polyfill": "^6.23.0",
     "font-awesome": "^4.7.0",
     "normalize.css": "^5.0.0",
-    "react": "15.4.2",
+    "react": "17.0.2",
     "react-css-modules": "^4.1.0",
-    "react-dom": "15.4.2"
+    "react-dom": "17.0.2"
   },
   "babel": {
     "presets": [
